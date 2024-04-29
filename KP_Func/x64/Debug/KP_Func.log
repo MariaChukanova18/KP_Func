@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Mikhail\source\repos\KP_Func\KP_Func\Source.c(27,7): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+C:\Users\Mikhail\source\repos\KP_Func\KP_Func\Source.c(27,17): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+C:\Users\Mikhail\source\repos\KP_Func\KP_Func\Source.c(27,29): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+C:\Users\Mikhail\source\repos\KP_Func\KP_Func\Source.c(182,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  KP_Func.vcxproj -> C:\Users\Mikhail\source\repos\KP_Func\x64\Debug\KP_Func.exe
